@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science needed in all kinds of field ranging from computer science to medical, data science allows for these field to study their subject in depth.
