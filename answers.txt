@@ -9,3 +9,7 @@ Answer: Data science needed in all kinds of field ranging from computer science 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merge allows different branch changes to join together their work, if there is conflict the user can pick and choose which changes to keep manually. Rebase will overwrites and update any of the recent changes.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning more about data science and ways to make use of it.
