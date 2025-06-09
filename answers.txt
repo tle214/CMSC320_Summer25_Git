@@ -5,3 +5,7 @@ Answer: Git allows for easy access & keep track of the different versions of the
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science needed in all kinds of field ranging from computer science to medical, data science allows for these field to study their subject in depth.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merge allows different branch changes to join together their work, if there is conflict the user can pick and choose which changes to keep manually. Rebase will overwrites and update any of the recent changes.
